@@ -1,1 +1,1 @@
-用任意文本编辑软件打开“C:\Users\[Your User Name]\AppData\Roaming\Scooter Software\Beyond Compare 3\BCState.xml” ，删除<TCheckForUpdatesState>节点（即<TCheckForUpdatesState>到< /TCheckForUpdatesState>之间的部分）,保存退出编辑软件。 重新打开BeyondCompare3，所有历史记录及配置都有保留。
+用任意文本编辑软件打开“C:\Users\[Your User Name]\AppData\Roaming\Scooter Software\Beyond Compare 3\BCState.xml” ，删除&lt;TCheckForUpdatesState&gt;节点（即&lt;TCheckForUpdatesState&gt;到&lt; /TCheckForUpdatesState&gt;之间的部分）,保存退出编辑软件。 重新打开BeyondCompare3，所有历史记录及配置都有保留。
